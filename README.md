@@ -29,26 +29,6 @@ O DESPLUCOMP é composto por:
 * Google Sheets
 * Google Apps Script
 
-## Estrutura do repositório
-
-```text
-desplucomp/
-├── app/
-├── teacher-module/
-├── google-sheets/
-├── atividades/
-├── docs/
-├── examples/
-├── README.md
-└── LICENSE
-```
-
-## Uso
-
-As instruções para configuração e execução de cada componente estão disponíveis nas respectivas pastas do repositório.
-
-Os dados disponibilizados como exemplo são fictícios e destinados exclusivamente à demonstração e aos testes da ferramenta.
-
 ## Contexto
 
 O DESPLUCOMP foi desenvolvido para apoiar atividades relacionadas ao Pensamento Computacional na Educação Básica, considerando habilidades previstas na BNCC Computação.
